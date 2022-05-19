@@ -1,15 +1,18 @@
 - 👩 Ana Luiza;
 - 💛 Compromissada;
-- 
--
-- <
-<!---
-ananalua/ananalua is a ✨ special ✨ repository because it s `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💃 Loving Dance;
+- 👩‍🍳 Mestre na Cozinha!
 
-https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white
 
-<img https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
+
+
+
+
+
+
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
